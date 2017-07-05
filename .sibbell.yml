@@ -2,13 +2,9 @@ projects:
   # bosh
   - github: cloudfoundry/bosh
   - github: cloudfoundry/bosh-cli
-  - github: cloudfoundry/bosh-deployment
   - github: cloudfoundry-community/jumpbox-boshrelease
   - github: cloudfoundry-incubator/bosh-vsphere-cpi-release
-  - github: cloudfoundry/bosh-lite
   
   # concourse
   - github: concourse/concourse
-  
-  # cloud foundry
-  - github: cloudfoundry/cli
+ 
